@@ -1,5 +1,5 @@
 #variables for password ckecking...
-orgin_psw = input("Create new password (Admin!): ")
+orgin_psw = input("Create a new password (Admin!): ")
 max_no_try = int(input("Maximum no.of try to enter the password correctly : "))
 print("\n",f"               WARNING!, You have only {max_no_try} chance to enter the password correctly!")
 ur_password = " "
