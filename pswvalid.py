@@ -1,3 +1,5 @@
-print("My 1st line of coding!")
-print("My 2nd line of coding!")
-print("My 3rd line of coding!")
+our_password = "pass123"
+ur_password = " "
+no_of_try = 0
+max_no_try = 10
+max_try_cmd = "Not reached the max try!!!"
