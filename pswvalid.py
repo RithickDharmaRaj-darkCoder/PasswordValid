@@ -14,7 +14,7 @@ while ur_password != orgin_psw and max_try_cmd != "Reached the max try":
     else:
         max_try_cmd = "Reached the max try"
 
-#output to the user based on their input
+#output to the user based on their input...
 if max_try_cmd == "Reached the max try":
     print("Account Blocked!, you have wrongly entered the password manytimes.")
 else:
