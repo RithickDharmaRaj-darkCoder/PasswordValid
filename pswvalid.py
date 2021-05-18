@@ -19,3 +19,6 @@ if max_try_cmd == "Reached the max try":
     print("Account Blocked!, you have wrongly entered the password manytimes.")
 else:
     print("Password matched! & Access granted!")
+
+#Personal Greetings...
+print("Thank You!","\n","          -darkCoder \U0001F43E")
