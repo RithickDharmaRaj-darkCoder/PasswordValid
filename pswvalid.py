@@ -22,4 +22,4 @@ else:
     print("Password matched! & Access granted!")
 
 #Personal Greetings...
-print("Thank You!","\n","          -darkCoder \U0001F43E")
+print("\nThank You!\n          -darkCoder \U0001F43E")
