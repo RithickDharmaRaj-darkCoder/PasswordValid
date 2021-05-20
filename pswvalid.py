@@ -1,4 +1,5 @@
 #variables for password ckecking...
+print("    *** Password Validation System ***")
 orgin_psw = input("Create a new password (Admin!): ")
 max_no_try = int(input("Maximum no.of try to enter the password correctly : "))
 print("\n",f"               WARNING!, You have only {max_no_try} chance to enter the password correctly!")
